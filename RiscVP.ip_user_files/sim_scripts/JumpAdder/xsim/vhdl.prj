@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../RiscVP.srcs/sources_1/ip/JumpAdder/sim/JumpAdder.vhd" \
+
+nosort

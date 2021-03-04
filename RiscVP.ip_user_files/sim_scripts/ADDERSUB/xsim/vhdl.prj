@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../RiscVP.srcs/sources_1/ip/ADDERSUB/sim/ADDERSUB.vhd" \
+
+nosort
