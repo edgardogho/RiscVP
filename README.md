@@ -1,4 +1,8 @@
 # RiscVP
+This project is old. A new version using Verilog with a much cleaner implementation that can run on FPGA is located on:
+https://github.com/edgardogho/RISC-V2p
+
+
 This is a RISC-V architecture written in VHDL (sim only). Project runs on Vivado 2019.2.
 ![BlockDiagram](https://user-images.githubusercontent.com/4956043/109964629-ad717a80-7ccc-11eb-82dd-445ad502d199.png)
 
